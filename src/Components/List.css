@@ -1,0 +1,86 @@
+.MainList{
+width: 55rem;
+height: 5rem;
+padding: 1rem;
+margin-left: 2rem;
+display: flex;
+background: #FFFFFF;
+box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.15);
+
+}
+
+.logo{
+  display: flex;
+  height:7rem;
+  margin-right: -4rem;
+}
+.MainInfo{
+  display:flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height:4rem;
+  justify-content: space-between;
+}
+
+.logoContainer{
+display: flex;
+align-items: center;
+justify-content: center;
+width:5rem;
+height:5rem;
+background: #E0F6FA;
+border-radius:50%;
+}
+
+.Reward{
+width: 2rem;
+height: 2rem;
+display:flex;
+align-items: center;
+justify-content: center;
+border-radius: 50%;
+}
+.Right{
+  margin-left: -10px;
+  background: #E3DCFE;
+  
+}
+
+
+.css-1idz92c-MuiCircularProgress-svg {
+    height: 1.5rem;
+    margin-top: -0.8rem;
+    color: red;
+}
+.Center{
+  margin-left: -10px;
+  background: #E0E0E0;
+}
+
+.additionalInfo{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+width: 7rem;
+height:2rem;
+margin-top: 2.2rem;
+align-items:center;
+margin-left: -2rem;
+
+/* tertiary_brand/main */
+
+border: 1px solid #03A9F4;
+border-radius:0.3rem;
+}
+
+
+.left{
+ background: #FFDADE;
+}
+
+.Arrow{
+  display: flex;
+  margin-left: 3rem;
+  align-items: center;
+  justify-content: flex-end;
+}

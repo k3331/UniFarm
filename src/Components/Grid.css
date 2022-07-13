@@ -1,0 +1,84 @@
+.MainGrid{
+  margin: 1rem 1rem 0;
+  display: flex;
+  flex-direction: column;
+  width:18rem;
+  height: 18rem;
+  left: 242px;
+  top: 308px;
+  padding:1rem;
+  background: #FFFFFF;
+  border: 1px solid #E0E0E0;
+  border-radius: 13px;
+}
+
+.logoContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:4rem;
+  height:4rem;
+  background: #E0F6FA;
+  border-radius:50%;
+}
+
+.Title{
+  display: flex;
+  align-items: center;
+}
+
+.TitleInfo{
+  display: flex;
+  flex-direction: column;
+  height: 3rem;
+  align-items: flex-start;
+  margin-left: 1rem;
+  justify-content:space-between;
+}
+
+.css-1idz92c-MuiCircularProgress-svg {
+   height: 1.5rem;
+   color: red;
+}
+
+.PoolFilled{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 1rem;
+  width: 14rem;
+}
+
+.Reward{
+  width: 2rem;
+  height: 2rem;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.Right{
+  margin-left: -10px;
+  background: #E3DCFE;
+  
+}
+.Center{
+  margin-left: -10px;
+  background: #E0E0E0;
+}
+
+.left{
+ background: #FFDADE;
+}
+
+.Button{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 7rem;
+  height:2rem;
+  align-items:center;
+  border: 1px solid #03A9F4;
+  border-radius:0.3rem;
+}
